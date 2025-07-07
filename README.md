@@ -10,20 +10,8 @@ Made for hackers who ask nicely first 😌
 **📸 Terminal Preview**
 ---
 
-Enter target hostname or IP address: google.com
-Enter port range (default 1‑1023, e.g. 20‑80): 80-85
+![image](https://github.com/user-attachments/assets/35b95d3c-3913-4776-b080-adc1faed561d)
 
-============================================================
- Scan target : 142.250.193.142  (resolved from 'google.com')
- Port range  : 80‑85
- Scan started: 2025-07-07 21:07:35
-============================================================
-
- Port     80 is OPEN
- Port     85 is OPEN
-
-============================================================
-Scan finished at 2025-07-07 21:07:37
 ---
 
 **💡 Features**
@@ -61,8 +49,9 @@ Scan finished at 2025-07-07 21:07:37
 ---
 
 port_scanner/
-├── port_scanner.py   # Main scanner script
-└── README.md         # You're reading it
+├── port_scanner.py   # 🧠 Main scanner script
+└── README.md         # 📄 You're reading it
+
 
 **🧠 What I Learned**
 This project helped reinforce:
