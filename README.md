@@ -48,9 +48,7 @@ Made for hackers who ask nicely first 😌
 **📂 Folder Structure**
 ---
 
-port_scanner/
-├── port_scanner.py   # 🧠 Main scanner script
-└── README.md         # 📄 You're reading it
+![image](https://github.com/user-attachments/assets/e2d246e1-7be4-4e9f-b5cb-652d8423e6e7)
 
 
 **🧠 What I Learned**
